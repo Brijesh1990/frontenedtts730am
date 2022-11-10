@@ -1,0 +1,7 @@
+dynamic website :  
+
+           dynamic website is a website where user can add | modify | delete | or change on runtime that type of website is called dynamic.
+
+            ex:  flipkart.com 
+                 amazon.in
+                  

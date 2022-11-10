@@ -1,0 +1,6 @@
+static website :  
+
+           static website is a website where user can't modify or change on runtime.
+
+            ex: informatic website
+                 website designing 
